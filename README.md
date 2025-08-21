@@ -1,0 +1,2 @@
+# -palemoon-
+yes
